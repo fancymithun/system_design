@@ -19,3 +19,8 @@ Follow these steps and is enough for cracking system design interview.
 * [System design interview questions, **with solutions**](#System-design-interview-questions-with-solutions)
 * [Object-oriented design interview questions, **with solutions**](#object-oriented-design-interview-questions-with-solutions)
 * [Additional system design interview questions](#additional-system-design-interview-questions)
+
+<strong>Gist of system design topics</strong>
+
+If you want to explore more on each topics, click on links which are dumped below.
+
